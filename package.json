@@ -6,6 +6,7 @@
   "dependencies": {
     "request": "*",
     "moment": "*",
+    "moment-timezone": "*",
     "lodash": "*",
     "utf8" : "*"
   },
